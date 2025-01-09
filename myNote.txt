@@ -1,0 +1,16 @@
+class ClientHandler(7min)
+    Runnable : interface : eprésente une tâche ou une unité de travail qui peut être exécutée par un thread
+
+ny dikan le 
+    -InputStream(flux (streams)
+    -OutputStream
+    gérer les entrées et les sorties de données sous forme de flux
+    
+ny tena asan le client socket : 
+ny tena asan le server socket : 
+
+difference entre URI et URL:
+
+ny ilana an le java.nio.charset.StandardCharsets:
+
+class ProxyServer(5min)
